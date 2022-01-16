@@ -76,3 +76,31 @@ h2.in-title {
     color: #FB8200;
 }
 
+/* footer */
+
+footer{
+    background-color: black;
+    padding: 50px 0;
+    text-align: center;
+}
+
+h2.name-company {
+    color: #ffff;
+    font-size: 24px;
+}
+p.compny-title, 
+p.com-right, 
+.icon {
+    color: #fff;
+}
+
+.icon i {
+    padding: 10px;
+    margin-top: 15px;
+    padding-right: 13px;
+    font-size: 22px;
+    background: #151616;
+    border: 1px solid gray;
+    border-radius: 29px;
+}
+
