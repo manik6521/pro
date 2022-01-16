@@ -4,14 +4,12 @@
     }
     .media {
         margin-right: 12px;
-        padding: 5px !important;
+        padding: 5px ;
     }
     .image {
         width: 35%;
     }
-    .media {
-        padding-left: 10px;
-    }
+
     ul.list {
         display: none !important;
     }
