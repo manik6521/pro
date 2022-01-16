@@ -4,7 +4,7 @@
     }
     .media {
         margin-right: 12px;
-        padding: 5px;
+        padding: 5px !important;
     }
     .image {
         width: 35%;
