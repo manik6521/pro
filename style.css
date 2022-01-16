@@ -49,3 +49,15 @@ button.gb {
     justify-content: space-evenly;
     padding: 70px 0;
 }
+h2.blo-title {
+    text-align: center;
+    padding-bottom: 50px;
+}
+article.blogs-title {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-items: center;
+}
+.media {
+    padding-bottom: 30px;
+}
