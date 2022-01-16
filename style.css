@@ -21,7 +21,7 @@
 }
 
 .image {
-    width: 10%;
+    width: 20%;
 }
 h2.title {
     font-size: 53px;
@@ -43,4 +43,9 @@ button.gb {
 }
 .image img {
     width: 100%;
+}
+.image-company {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 70px 0;
 }
