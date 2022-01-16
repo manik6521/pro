@@ -29,6 +29,7 @@ nav {
 }
 .full {
     display: flex;
+    padding-left: 20px;
 }
 
 .info {
