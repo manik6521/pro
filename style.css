@@ -76,6 +76,14 @@ article.blogs-title {
 }
 .media {
     padding-bottom: 30px;
+    border: 1px solid #d6d6d6;
+    margin-bottom: 25px;
+    box-shadow: -1px -3px 8px 0;
+    padding: 11px;
+}
+.media img {
+    width: 318px;
+    height: 300px;
 }
 .moden {
     display: flex;
