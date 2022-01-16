@@ -61,3 +61,18 @@ article.blogs-title {
 .media {
     padding-bottom: 30px;
 }
+.moden {
+    display: flex;
+    padding: 40px 0;
+}
+h2.in-title {
+    font-size: 35px;
+    padding-bottom: 20px;
+}
+.moden-image {
+    padding-right: 100px;
+}
+.icon-star i {
+    color: #FB8200;
+}
+
